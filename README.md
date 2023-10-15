@@ -51,3 +51,4 @@
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ![image](https://github.com/Misbasaba/Misbasaba/assets/140887406/f0d3f286-aca9-46a7-bb8d-a22280bbfcd4)
+https://www.hacksquad.dev/ticket/Misbasaba
