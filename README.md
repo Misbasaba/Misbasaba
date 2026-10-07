@@ -97,13 +97,7 @@ A computer-vision based project that uses **Python and OpenCV** to detect prolon
 
 ---
 
-## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misbasaba&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
