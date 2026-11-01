@@ -73,4 +73,4 @@ A selected project from this GitHub profile.<br/>
 
 <a href="https://github.com/misbasaba">GitHub</a>
 
-<p align="center"><sub>Misba Saba · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Misba Saba </p>
