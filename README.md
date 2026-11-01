@@ -1,122 +1,76 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Misba Saba</h1>
-
-<h3 align="center">Information Science & Engineering Student</h3>
+## Learning log
 
 <p align="center">
-  <a href="https://github.com/Misbasaba">
-    <img src="https://komarev.com/ghpvc/?username=Misbasaba&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/hero?username=misbasaba&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140887406%3Fu%3Da457e63ed67ccff04389b2d841c4c951b72dc43b%26v%3D4" alt="misbasaba hero visual" />
 </p>
 
----
+**Misba Saba** · Product-minded developer
 
-## 👩‍💻 About Me
+## Currently learning
 
-- 🎓 Information Science & Engineering student
-- 💻 Interested in **Software Development, Java & Python**
-- 🌱 Currently strengthening my **programming and problem-solving skills**
-- 🔧 Working on practical projects using **Python, Java, Git and OpenCV**
-- 📚 Exploring **Object-Oriented Programming, Data Structures and Algorithms**
-- 🚀 Building projects and improving my development workflow
+> B.Tech ISE at KNSIT'29 • passionate about technology • Open source contributor
 
----
+**Learning next**
 
-## 🔭 Current Focus
+- Jupyter Notebook
 
-- Java & Python programming
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Git & GitHub
-- Computer Vision
-- Building practical software projects
+👥 **25** followers · **15** following
 
----
+## Tools I’m practicing
 
-## 🛠️ Languages & Tools
+- **Jupyter Notebook** · 100%
 
-<p align="left">
+## Projects in progress
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-</a>
+<details>
+<summary><b>ChatBot</b> · Jupyter Notebook</summary>
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-</a>
+Develop a basic chatbot using predefined rules, if-else statements, or pattern matching techniques. Explore natural language processing concepts and conversation flow within the chatbot's functionality.<br/>
+⭐ 1 · 🍴 0
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-</a>
+[View repository](https://github.com/Misbasaba/ChatBot)
+</details>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-</a>
+<details>
+<summary><b>Misbasaba</b> · open source</summary>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</a>
+About me<br/>
+⭐ 1 · 🍴 0
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-</a>
+[View repository](https://github.com/Misbasaba/Misbasaba)
+</details>
 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
-</a>
+<details>
+<summary><b>profile-badges</b> · open source</summary>
 
-<a href="https://opencv.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
-</a>
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
 
-</p>
+[View repository](https://github.com/Misbasaba/profile-badges)
+</details>
 
----
+## Progress so far
 
-## 📌 Featured Project
-
-### 🚗 Driver Drowsiness Detection System
-
-A computer-vision based project that uses **Python and OpenCV** to detect prolonged eye closure and provide an alert when drowsiness is detected.
-
-**Technologies:** Python • OpenCV • Computer Vision
-
----
-
-## 📊 GitHub Statistics
+- **Current streak:** 0 days
+- **Longest streak:** 1 days
+- **Active days:** 2 days
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misbasaba&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misbasaba&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://www.gitskins.com/api/section/stats?username=misbasaba&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140887406%3Fu%3Da457e63ed67ccff04389b2d841c4c951b72dc43b%26v%3D4" alt="misbasaba stats visual" />
 </p>
+
+## Learning streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misbasaba&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=misbasaba&theme=zen" alt="misbasaba contribution activity" />
 </p>
 
----
+## Say hello
 
-
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Misbasaba" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:misbasaba78@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=misbasaba&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140887406%3Fu%3Da457e63ed67ccff04389b2d841c4c951b72dc43b%26v%3D4" alt="misbasaba social visual" />
 </p>
 
----
+<a href="https://github.com/misbasaba">GitHub</a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<h3 align="center">Thanks for visiting my profile! 👋</h3>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<p align="center"><sub>Misba Saba · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
